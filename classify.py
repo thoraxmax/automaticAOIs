@@ -7,8 +7,10 @@ from numba import cuda
 from numba.pycc import CC
 import traceback
 from tqdm import tqdm
-aoiloc='conts/'
-dataloc='all_data.csv'
+
+aoiloc='conts/'#location where AOI contours are stored
+dataloc='all_data.csv' #eye-tracking dataframe
+
 AOI={'stim':[],'rect':[],'area':[]}
 ao=os.listdir(aoiloc)
 for a in ao:
