@@ -11,8 +11,9 @@ Note: full citation will be made available later.
 
 ## How to use
 Tested with Python 3.8.
-"python3 detect.py" to detect and store facial AOIs
-"python3 classify.py" to get classification of gaze to AOIs
+### Usage:
+* "python3 detect.py" to detect and store facial AOIs
+* "python3 classify.py" to get classification of gaze to AOIs
 
 More details in files.
 
