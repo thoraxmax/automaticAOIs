@@ -26,8 +26,8 @@ More details in files.
 * cuda
 
 ### detection models:
-'mmod_human_face_detector.dat'(http://dlib.net/files/mmod_human_face_detector.dat.bz2)
-'shape_predictor_68_face_landmarks.dat' (http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2)
+* 'mmod_human_face_detector.dat'(http://dlib.net/files/mmod_human_face_detector.dat.bz2)
+* 'shape_predictor_68_face_landmarks.dat' (http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2)
 
 
 ## Citation
