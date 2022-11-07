@@ -11,6 +11,9 @@ Note: full citation will be made available later.
 
 ## How to use
 Tested with Python 3.8.
+"python3 detect.py" to detect and store facial AOIs
+"python3 classify.py" to get classification of gaze to AOIs
+
 See comments in files.
 ## Dependencies
 * OpenCV
@@ -20,7 +23,6 @@ See comments in files.
 * Numba
 * tqdm
 * cuda
-* 
 ## Citation
 On top of the conditions stipulated in the software license (see the LICENSE file), you are kindly asked to cite our manuscript if you make use of this code in any academic context.
 
