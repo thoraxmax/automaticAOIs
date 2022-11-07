@@ -1,5 +1,5 @@
 # Automatic generation of areas of interest (AOI)
-Representative examples using scripts developed for the analysis made for the manuscript:
+Python scripts developed for the analysis made for the manuscript:
 
 **"Title"**
 
@@ -26,7 +26,7 @@ More details in files.
 * tqdm
 * cuda
 
-### detection models:
+### Detection models:
 * 'mmod_human_face_detector.dat' (http://dlib.net/files/mmod_human_face_detector.dat.bz2)
 * 'shape_predictor_68_face_landmarks.dat' (http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2)
 
