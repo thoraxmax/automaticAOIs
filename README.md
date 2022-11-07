@@ -7,7 +7,7 @@ Note: full citation will be made available later.
 
 ## The responsory features:
 * Automatic generation of AOIs for facial images 
-* Classification of gaze witin AOIs
+* Classification of gaze within AOIs
 
 ## How to use
 Tested with Python 3.8.
