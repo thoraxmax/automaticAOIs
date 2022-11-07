@@ -17,10 +17,10 @@ See comments in files.
 * Dlib
 * imutils
 * Pandas
-For performance:
 * Numba
 * tqdm
 * cuda
+* 
 ## Citation
 On top of the conditions stipulated in the software license (see the LICENSE file), you are kindly asked to cite our manuscript if you make use of this code in any academic context.
 
