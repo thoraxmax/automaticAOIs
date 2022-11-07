@@ -14,7 +14,8 @@ Tested with Python 3.8.
 "python3 detect.py" to detect and store facial AOIs
 "python3 classify.py" to get classification of gaze to AOIs
 
-See comments in files.
+More details in files.
+
 ## Dependencies
 * OpenCV
 * Dlib
