@@ -12,6 +12,10 @@ Note: full citation will be made available later.
 ## How to use
 Tested with Python 3.8.
 See comments in files.
+## Dependencies
+* OpenCV
+* Dlib
+* imutils
 
 ## Citation
 On top of the conditions stipulated in the software license (see the LICENSE file), you are kindly asked to cite our manuscript if you make use of this code in any academic context.
