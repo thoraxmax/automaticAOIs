@@ -24,6 +24,11 @@ More details in files.
 * Numba
 * tqdm
 * cuda
+detection models:
+'mmod_human_face_detector.dat'(http://dlib.net/files/mmod_human_face_detector.dat.bz2)
+'shape_predictor_68_face_landmarks.dat' (http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2)
+
+
 ## Citation
 On top of the conditions stipulated in the software license (see the LICENSE file), you are kindly asked to cite our manuscript if you make use of this code in any academic context.
 
