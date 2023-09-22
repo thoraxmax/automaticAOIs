@@ -1,9 +1,9 @@
 # Automatic generation of areas of interest (AOI)
 Python scripts developed for the analysis made for the manuscript:
 
-**"Title"**
 
-Note: full citation will be made available later.
+Martyna A. Galazka, Lena Wallin, Max Thorsson, Christopher Gillberg, Eva Billstedt, Nouchine Hadjikhani & Jakob Åsberg Johnels (2023) Self-reported eye contact sensitivity and face processing in chromosome 22q11.2 deletion syndrome, Journal of Clinical and Experimental Neuropsychology, DOI: [10.1080/13803395.2023.2259043](https://doi.org/10.1080/13803395.2023.2259043)
+
 
 ## The responsory features:
 * Automatic generation of AOIs for facial images 
